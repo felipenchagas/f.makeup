@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: enviar.php
+Sitemap: http://www.pattimakeup.com.br/sitemap.xml
+Sitemap: http://www.pattimakeup.com.br/make-pr.xml
+Sitemap: http://www.pattimakeup.com.br/make-ctba.xml
+Sitemap: http://www.pattimakeup.com.br/formatura-ctba.xml
+Sitemap: http://www.pattimakeup.com.br/maquiagem.xml
+Sitemap: http://www.pattimakeup.com.br/noiva-ctba.xml
+Sitemap: http://www.pattimakeup.com.br/noiva-m.xml
+Sitemap: http://www.pattimakeup.com.br/fio-a-fio.xml
+Sitemap: http://www.pattimakeup.com.br/micro.xml
+Sitemap: http://www.pattimakeup.com.br/maquiadora.xml
